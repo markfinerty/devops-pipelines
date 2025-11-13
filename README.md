@@ -1,6 +1,6 @@
-# DevOps Pipelines
+# DevOps Projects
 
-A collection of CI/CD pipeline projects built with **Docker**, **Docker Compose**, **Terraform**, **Ansible**, **AWS EC2**, and **GitHub Actions**.  
+A collection of DevOps projects built with **Docker**, **Docker Compose**, **Terraform**, **Ansible**, **AWS EC2**, and **GitHub Actions**.  
 Each project demonstrates a complete DevOps workflow — from infrastructure provisioning and configuration management to containerized deployment and automation.
 
 ---
